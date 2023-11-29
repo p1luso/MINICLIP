@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1698996740 source:c:\users\piluso.dev\desktop\miniclip\miniclip\variables.cpp
+	"variables.h"
+
+1698996740 c:\users\piluso.dev\desktop\miniclip\miniclip\variables.h
+	<string>
+
+1698989983 source:c:\users\piluso.dev\desktop\miniclip\miniclip\labo.cpp
+	<iostream>
+	"rlutil.h"
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<string>
+	"showItem.h"
+	"menu.h"
+	"maps.h"
+	"movimiento.h"
+	"fight.h"
+	"gato_guia.h"
+	"textoGato.h"
+	"variables.h"
+
+1698902497 c:\users\piluso.dev\desktop\miniclip\miniclip\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698992489 c:\users\piluso.dev\desktop\miniclip\miniclip\showitem.h
+	<windows.h>
+
+1698992482 c:\users\piluso.dev\desktop\miniclip\miniclip\menu.h
+	"funciones.h"
+
+1698992472 c:\users\piluso.dev\desktop\miniclip\miniclip\funciones.h
+	<windows.h>
+
+1698992480 c:\users\piluso.dev\desktop\miniclip\miniclip\maps.h
+	<iostream>
+	"rlutil.h"
+	"variables.h"
+
+1698989986 c:\users\piluso.dev\desktop\miniclip\miniclip\movimiento.h
+	"textoGato.h"
+
+1698992492 c:\users\piluso.dev\desktop\miniclip\miniclip\textogato.h
+
+1699397031 c:\users\piluso.dev\desktop\miniclip\miniclip\fight.h
+	"textoGato.h"
+
+1698987178 c:\users\piluso.dev\desktop\miniclip\miniclip\gato_guia.h
+	"maps.h"
+	<iostream>
+	"rlutil.h"
+
+1700521047 source:c:\users\piluso.dev\desktop\miniclip\miniclip\main.cpp
+	<iostream>
+	"rlutil.h"
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<string>
+	"showItem.h"
+	"menu.h"
+	"maps.h"
+	"movimiento.h"
+	"fight.h"
+	"gato_guia.h"
+	"textoGato.h"
+	"variables.h"
+
